@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+[250141014-2.1 Drawing.pdf](https://github.com/user-attachments/files/26513514/250141014-2.1.Drawing.pdf)
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
